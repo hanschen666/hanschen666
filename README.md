@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanschen666
-- I am a computer science student at the University of Toronto
+- I am a CS student at the University of Toronto
 
 <!---
 hanschen666/hanschen666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
